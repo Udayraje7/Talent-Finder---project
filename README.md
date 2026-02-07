@@ -1,11 +1,5 @@
 # Talent-Finder---project
 
-Perfect 👍
-Main tumhe **ready-to-use professional README content** de raha hoon — **final-year + GitHub + interviewer friendly**.
-Tum directly copy-paste karke thoda naam/date change kar sakte ho.
-
----
-
 # 🚀 Talent Finder – AI Powered Resume Screening System
 
 ## 📌 Overview
